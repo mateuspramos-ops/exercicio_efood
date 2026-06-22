@@ -25,7 +25,7 @@ const Banner = styled.div<{ foto: string }>`
 const NomeRestaurante = styled.h1`
   font-size: 32px;
   font-weight: 900;
-  color: ${cores.branco};
+  color: #ffffff;
 `
 
 const Main = styled.main`
